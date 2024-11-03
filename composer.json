@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nutgram/nutgram": "^4.3",
+        "catfan/medoo": "^2.1"
+    }
+}
+    
